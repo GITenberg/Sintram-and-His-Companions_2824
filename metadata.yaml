@@ -1,0 +1,56 @@
+_repo: Sintram-and-His-Companions_2824
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, Charlotte Mary
+    - Yonge, C. M. (Charlotte Mary)
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+  illustrator:
+    agent_name: Browne, Gordon
+    alias: Browne, Gordon Frederick
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '8569'
+    url: http://www.gutenberg.org/2009/agents/8569
+creator:
+  author:
+    agent_name: La Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de
+    aliases:
+    - Fouqué, Lamotte
+    - Motte-Fouque, Friedrich Heinrich Karl, Freiherr de La
+    - Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de La
+    birthdate: 1777
+    deathdate: 1843
+    gutenberg_agent_id: '1045'
+    url: http://www.gutenberg.org/2009/agents/1045
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_de_la_Motte_Fouqué
+description: ''
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2824'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+- !lcsh 'Knights and knighthood -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Courtship -- Juvenile fiction'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Death -- Juvenile fiction'
+- !lcc 'PT'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Castles -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- GITenberg
+title: Sintram and His Companions
+url: http://www.gutenberg.org/ebooks/2824
